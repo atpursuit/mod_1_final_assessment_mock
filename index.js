@@ -39,6 +39,12 @@ function capitalizeFirstLetter(str) {
 
 // ['red', 'lindsay', 'equine', 'drip'] => ['red'] 
 
+//Initialize an empty array filteredWords to store the words that meet the criteria.
+//Iterate through each word in the input array wordsArray.
+//Check if the word contains the letter 'e' and does not start with the letter 'e'.
+//If the condition is met, add the word to the filteredWords array.
+//After looping through all words, return the filteredWords array containing the words that meet the criteria.
+
 // 3. Write a function that takes a string of lowercase letters, and returns an object with a count of how many times each letter appears
 
 // 'asciiaske' => {
